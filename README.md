@@ -1,4 +1,4 @@
-# RankUp: AI-Powered Resume Builder for Students
+# RankUp: AI-Powered Resume Builder for Students(VibeCode-India 2025)
 
 Welcome to **RankUp**—a project I developed to empower Tier-2 and Tier-3 college students in India to create professional, ATS-friendly resumes with ease. By harnessing the capabilities of Google Gemini AI, RankUp delivers tailored resume content, intelligent suggestions, and seamless PDF export, all within a modern, user-friendly interface.
 
